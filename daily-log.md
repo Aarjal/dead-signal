@@ -9,8 +9,8 @@
  So today was base-work. Created the project skeleton in phantom with its description and initialized a github repo for this. AND YES, even this daily log is going on github, cus why not.
 
 ## DAY - 1 
- I decided I wanna make this a thriller experience. Something in middle of a techy CLI game and normal visual exploration one. SO it will combine those 2 things:
- -terminal UI 
+ I decided I wanna make this a thriller experience. Something in middle of a techy CLI game and normal visual exploration one. SO it will combine those 2 things:  
+ -terminal UI   
  -graphic visual UI. 
  ( wow it seems i didnt even complete the log that day and pushed the code. haha laziness..)
  well after-info here today is 29 oct ( ages after last log) and im finally continuing the log and learning process
