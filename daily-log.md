@@ -16,3 +16,6 @@
  well after-info here today is 29 oct ( ages after last log) and im finally continuing the log and learning process
  This day 1 log is total waste. real log is coming below in day 2 wait up
 
+## DAY - 2
+
+ So I took a bit guidance from my gpt-guy and watched a few tutorials regarding the starter basics. YES there's no update to actual lines of code yet cus I've finally realised how hard of a project this is and how much do I currently know. So, I recapped few sessions of objects and arrays and how they're implemented. Learnt about the .find function which is apprantly the MVP for my game project. Learnt the basics of game-events handling( basically first-time and repeated file opening events to show my WARNINGS). experimented with functions and parameters passing to check file availability in array. I've realised im a complete beginner and I wont be writing down real code very soon yet. So yeah that's that but yes I'll be consistent now.
