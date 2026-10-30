@@ -19,3 +19,10 @@
 ## DAY - 2
 
  So I took a bit guidance from my gpt-guy and watched a few tutorials regarding the starter basics. YES there's no update to actual lines of code yet cus I've finally realised how hard of a project this is and how much do I currently know. So, I recapped few sessions of objects and arrays and how they're implemented. Learnt about the .find function which is apprantly the MVP for my game project. Learnt the basics of game-events handling( basically first-time and repeated file opening events to show my WARNINGS). experimented with functions and parameters passing to check file availability in array. I've realised im a complete beginner and I wont be writing down real code very soon yet. So yeah that's that but yes I'll be consistent now.
+
+ ## DAY - 3
+
+ I thought I wasnt writing actual code yet but guess what..   
+ I wrote my first function of JS today in my filesystem to check if a certain file is available. Definitely will be changing the code later on as I learn so idk f I can call it actual code yet but yeah.. there's sth today. 
+ Regarding what I've learnt, today it's console.log and return concepts. When to use which and what each one does in which kinds of cases. Ive implemented that as well in my code.  
+ I've decided I'll go slow and learn everything good to be able to write each code by myself later on no matter the time. So its small 1-2 concepts each day but yeah consistency is a must.
