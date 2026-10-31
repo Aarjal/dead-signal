@@ -26,3 +26,7 @@
  I wrote my first function of JS today in my filesystem to check if a certain file is available. Definitely will be changing the code later on as I learn so idk f I can call it actual code yet but yeah.. there's sth today. 
  Regarding what I've learnt, today it's console.log and return concepts. When to use which and what each one does in which kinds of cases. Ive implemented that as well in my code.  
  I've decided I'll go slow and learn everything good to be able to write each code by myself later on no matter the time. So its small 1-2 concepts each day but yeah consistency is a must.
+
+ ## DAY - 4
+
+ One major update is I've moved from relying on online tutorials and lessons to learning with AI agents. Now my gpt trains me everyday based on my level. Today I've learnt nested if-else conditions and implemented in the code. Also I used nested functions or recursive function(idk what to call it) and implemented that on code as well. Also realised returning balues is more efficient that printing it in console as Im moving onto connecting diff functions. Alsooo, my js code is more of a learning exercise kinda thing now. but yes its relevant to the game.
