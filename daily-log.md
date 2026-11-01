@@ -30,3 +30,7 @@
  ## DAY - 4
 
  One major update is I've moved from relying on online tutorials and lessons to learning with AI agents. Now my gpt trains me everyday based on my level. Today I've learnt nested if-else conditions and implemented in the code. Also I used nested functions or recursive function(idk what to call it) and implemented that on code as well. Also realised returning balues is more efficient that printing it in console as Im moving onto connecting diff functions. Alsooo, my js code is more of a learning exercise kinda thing now. but yes its relevant to the game.
+
+ ## DAY - 5 
+
+ Today Ive learnt the &&, || and ! concepts in JS with their operator precedence in code. Ive also learnt about the parenthesis control for those logical arguments and THATS IT. I was meant to learn another short concept and add relevant code after these concepts but I started a bit late today so laziness got the better of me. I'll add the code implementation part tomorrow ig. Today was just short lazy session.
