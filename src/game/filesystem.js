@@ -35,6 +35,23 @@ openFile("data.txt");
 openFile("data.txt");
 openFile("system.txt");
 
+function handleCommand( command ) {
+    switch(command) {
+        case "help":
+            return "Available Commands";
+
+        case "ls":
+            return "Scanning Files";
+
+        case "open":
+            return "Which file?";
+        default:
+            return "Unknown Command";
+
+    }
+}
+console.log(handleCommand("ls"));
+
 // function openFile (filename){
 //     const target = files.find(function(item){
 //         return item.name === filename;
