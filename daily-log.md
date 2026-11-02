@@ -34,3 +34,7 @@
  ## DAY - 5 
 
  Today Ive learnt the &&, || and ! concepts in JS with their operator precedence in code. Ive also learnt about the parenthesis control for those logical arguments and THATS IT. I was meant to learn another short concept and add relevant code after these concepts but I started a bit late today so laziness got the better of me. I'll add the code implementation part tomorrow ig. Today was just short lazy session.
+
+ ## DAY - 6
+
+ Today I learnt how logical operators get used in relecant cases in actual code. yesterday was just the concept. On top of that, I learnt switch case handling for my commands system. This is another gamechanger for my game. ive also implemented the new learnt concept in my actual code in filesystem js file with handleCommands function. So yes today was learning + implementing; an actual progress.
